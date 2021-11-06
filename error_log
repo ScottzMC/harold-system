@@ -1,0 +1,4 @@
+[23-Sep-2021 08:48:05 America/New_York] PHP Fatal error:  Cannot redeclare Admin_model::display_all_children() in /home/scottjpq/public_html/harold/application/models/Admin_model.php on line 1048
+[30-Sep-2021 18:47:52 America/New_York] PHP Fatal error:  Cannot redeclare Children::add_social_worker() in /home/scottjpq/public_html/harold/application/controllers/admin/Children.php on line 1455
+[30-Sep-2021 18:49:38 America/New_York] PHP Fatal error:  Cannot redeclare Admin_model::insert_social_worker() in /home/scottjpq/public_html/harold/application/models/Admin_model.php on line 361
+[30-Sep-2021 18:49:51 America/New_York] PHP Fatal error:  Cannot redeclare Admin_model::delete_social_worker() in /home/scottjpq/public_html/harold/application/models/Admin_model.php on line 361
